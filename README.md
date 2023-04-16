@@ -26,7 +26,7 @@
 
 ## 项目页面展示
 
-![](.\readme-images\login.png)
+![](./readme-images/login.png)
 
 ![](.\readme-images\register.png)
 
